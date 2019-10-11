@@ -1,5 +1,5 @@
 # Project-1-Explore-Weather-Trends
-Project 1 of Udaciy Data Analyst Nanodegree Program
+Project 1 of Udacity Data Analyst Nanodegree Program
 
 
 Summary
